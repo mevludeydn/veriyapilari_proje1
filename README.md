@@ -1,0 +1,2 @@
+# veriyapilari_proje1
+insertionsorttamamlandi
